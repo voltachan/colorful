@@ -6,8 +6,7 @@
 // @match        http*://*/*
 // @grant        GM_addStyle
 // @run-at       document-start
-
-
+// @namespace    https://greasyfork.org/users/438767
 // ==/UserScript==
 
 (function() {
