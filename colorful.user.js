@@ -12,4 +12,4 @@
 
 (function() {
     GM_addStyle("*{filter:grayscale(0) !important;}");
-    })();
+})();
